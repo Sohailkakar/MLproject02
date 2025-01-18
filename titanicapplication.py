@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import pandas
 
 st.title('Welcome to my ML app!')
 st.image('image.png')
